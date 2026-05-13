@@ -1,0 +1,2 @@
+# BDAI
+python lab
